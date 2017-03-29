@@ -54,3 +54,6 @@ GC.Collect();
 https://www.codeproject.com/Questions/608096/WorkingpluswithpluslinepluschartsplusinplusPowerPo
 https://support.microsoft.com/zh-tw/help/257757/considerations-for-server-side-automation-of-office
 https://dotblogs.com.tw/shadow/2017/01/11/103354
+
+font
+http://forum.high-logic.com/viewtopic.php?t=941
