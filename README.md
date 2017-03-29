@@ -57,3 +57,6 @@ https://dotblogs.com.tw/shadow/2017/01/11/103354
 
 font
 http://forum.high-logic.com/viewtopic.php?t=941
+
+megadownload
+http://megadownloaderapp.blogspot.tw/
