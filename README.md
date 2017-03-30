@@ -60,3 +60,6 @@ http://forum.high-logic.com/viewtopic.php?t=941
 
 megadownload
 http://megadownloaderapp.blogspot.tw/
+
+刪除投影片
+https://msdn.microsoft.com/zh-tw/library/office/cc850840.aspx
