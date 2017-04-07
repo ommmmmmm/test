@@ -67,3 +67,7 @@ https://msdn.microsoft.com/zh-tw/library/office/cc850840.aspx
 highchart image server asp.net mail
 Highcharts结合PhantomJS在服务端生成高质量的图表图片
 http://www.cnblogs.com/jasondan/p/3504120.html
+
+
+Highcharts in asp.net using jquery ajax
+https://www.codeproject.com/articles/820349/highcharts-in-asp-net-using-jquery-ajax
