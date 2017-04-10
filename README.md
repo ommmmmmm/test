@@ -71,3 +71,24 @@ http://www.cnblogs.com/jasondan/p/3504120.html
 
 Highcharts in asp.net using jquery ajax
 https://www.codeproject.com/articles/820349/highcharts-in-asp-net-using-jquery-ajax
+
+highchart+table 结合phantomjs 一并生成图片
+http://www.peng8.net/2014/11/24/highchart-table-export-image-by-phantomjs/
+
+Highcharts结合PhantomJS在服务端生成高质量的图表图片
+http://www.cnblogs.com/jasondan/p/3504120.html
+
+利用 PhantomJS 搭建导出服务器 
+https://bbs.hcharts.cn/thread-989-1-1.html
+
+纯后台生成highcharts图片有哪些方法?
+https://segmentfault.com/q/1010000004059640
+
+highcharts-export-demo
+https://github.com/zhaiyuyong/highcharts-export-demo
+
+highchars图表组件实战篇：如何巧用phantomjs实现图表完美保存至服务器且中文无乱码
+http://www.stepday.com/topic/?888
+
+highCharts转PNG/JPG/PDF等格式,不用在线转换,本地高效率/java
+http://www.yanweijia.cn/index.php/2016/08/03/highchartstopng/
