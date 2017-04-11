@@ -92,3 +92,7 @@ http://www.stepday.com/topic/?888
 
 highCharts转PNG/JPG/PDF等格式,不用在线转换,本地高效率/java
 http://www.yanweijia.cn/index.php/2016/08/03/highchartstopng/
+
+My HighChart server
+https://highchartsexport.wordpress.com/2016/04/30/first-blog-post/
+
