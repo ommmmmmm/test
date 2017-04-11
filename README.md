@@ -96,3 +96,6 @@ http://www.yanweijia.cn/index.php/2016/08/03/highchartstopng/
 My HighChart server
 https://highchartsexport.wordpress.com/2016/04/30/first-blog-post/
 
+[ASP.Net] 在IIS7中架設 Highcharts 的 Exporting 網站 
+http://yilinliu.blogspot.tw/2012/03/aspnet-iis7-highcharts-exporting.html
+
