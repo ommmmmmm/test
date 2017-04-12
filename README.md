@@ -101,3 +101,6 @@ http://yilinliu.blogspot.tw/2012/03/aspnet-iis7-highcharts-exporting.html
 
 highchart+table 结合phantomjs 一并生成图片 
 http://www.peng8.net/tags/phantomjs/
+
+BUG Export Script: OPTIONS variable missing
+https://forum.highcharts.com/highcharts-usage/bug-export-script-options-variable-missing-t29818/
