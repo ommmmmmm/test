@@ -104,3 +104,4 @@ http://www.peng8.net/tags/phantomjs/
 
 BUG Export Script: OPTIONS variable missing
 https://forum.highcharts.com/highcharts-usage/bug-export-script-options-variable-missing-t29818/
+
