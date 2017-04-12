@@ -99,3 +99,5 @@ https://highchartsexport.wordpress.com/2016/04/30/first-blog-post/
 [ASP.Net] 在IIS7中架設 Highcharts 的 Exporting 網站 
 http://yilinliu.blogspot.tw/2012/03/aspnet-iis7-highcharts-exporting.html
 
+highchart+table 结合phantomjs 一并生成图片 
+http://www.peng8.net/tags/phantomjs/
