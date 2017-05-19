@@ -1,2 +1,16 @@
 Installation and Configuration
 https://docs.tibco.com/pub/hawk/4.9.0_november_2010/pdf/tib_hawk_installation_configuration.pdf
+
+StartServiceCtrlDispatcher 時回 1063 error
+https://www.google.com.tw/?gws_rd=ssl#q=virtscrl.exe+startservicectrlDispatcher+failed+%3C1063%3E&spf=1495186420723
+
+rvd 
+TIB /Rendezvous Communications Daemon
+rvrd
+TIB /Rendezvous Routing Communications Daemon
+rva
+TIB /Rendezvous Agent for Java
+rvrad
+TIB/Rendezvous Relay Agent for CM
+rvcache
+TIB/Rendezvous Inital Value Cache
