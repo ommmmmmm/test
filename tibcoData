@@ -14,3 +14,7 @@ rvrad
 TIB/Rendezvous Relay Agent for CM
 rvcache
 TIB/Rendezvous Inital Value Cache
+
+http://spallirp.blogspot.tw/2012/05/multi-threaded-socket-program-c.html
+https://codereview.stackexchange.com/questions/100434/multithreaded-client-server-socket
+
