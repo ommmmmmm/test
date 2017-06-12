@@ -1,0 +1,24 @@
+GM8 Processes 部分實作簡易概念
+
+1.Window 標題, Process ID
+
+  使用 EnumWindows -> 藉由 EnumWindowsProc 傳回的 Window Handle
+  使用 GetParent -> 取得最上層 Window Handle
+
+  藉由最上層 Window Handle
+
+  使用 GetWindowText -> 取得 Window 標題
+  使用 GetWindowThreadProcessId -> 取得 PID (Process ID)
+
+2.Process Handle
+
+  使用 OpenProcess (PROCESS_VM_READ | PROCESS_VM_WRITE, FALSE, PID)
+  -> 取得 Process Handle
+
+3.讀取記憶體
+
+  ReadProcessMemory(ProcessHandle,005B828D,ReadBuffer,ReadSize,BytesRead)
+
+4.寫入記憶體
+
+  WriteProcessMemory(ProcessHandle,005B828D,WriteBuffer,WriteSize,BytesWritten)
