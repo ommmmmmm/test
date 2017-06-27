@@ -105,3 +105,9 @@ http://www.peng8.net/tags/phantomjs/
 BUG Export Script: OPTIONS variable missing
 https://forum.highcharts.com/highcharts-usage/bug-export-script-options-variable-missing-t29818/
 
+
+輕鬆快速安裝Microsoft SQL Server 2012資料庫
+http://webcache.googleusercontent.com/search?q=cache:8reO7PWx2pIJ:download.ithome.com.tw/article/index/id/606+&cd=1&hl=zh-TW&ct=clnk&gl=tw
+
+
+
