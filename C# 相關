@@ -1,0 +1,20 @@
+Windows Form UI優化入門課 – 非同步作業
+http://blog.darkthread.net/blogs/darkthreadtw/archive/2008/03/26/better-winform-ui.aspx
+
+介紹好用元件：Smart Thread Pool 
+http://blog.miniasp.com/post/2009/03/22/Dot-Net-Library-Smart-Thread-Pool.aspx
+
+如何 使用 多執行緒 Thread / 跨執行緒 存取UI
+https://dotblogs.com.tw/yc421206/archive/2009/02/13/7141.aspx
+
+Smart Thread Pool
+https://www.codeproject.com/Articles/7933/Smart-Thread-Pool
+
+C#之橫跨不同表單共用變數
+http://kailotus.blogspot.tw/2015/07/c.html
+
+C#中兩個Form窗口之間的傳值（父->子）（子->父）
+http://b20259isgood.blogspot.tw/2014/03/cform.html
+
+幾種WinForm的Form與Form之間的傳值方法
+https://dotblogs.com.tw/jeff-yeh/2010/01/04/12799
