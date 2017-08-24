@@ -4,4 +4,16 @@ http://monkeycoding.com/?p=367
 
 https://blog.miniasp.com/post/2008/03/23/Regular-Expression-Regex-Learning-Resources.aspx
 
+
+Regex 类的常用方法和属性：
+http://www.cnblogs.com/lucas/archive/2009/02/18/1392986.html
+
+IsMatch
+Match
+Matches
+Replace
+Split
+
+Matches範例：
 http://readily-notes.blogspot.tw/2010/11/regular-expression-c-regex.html
+
